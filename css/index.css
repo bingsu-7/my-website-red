@@ -1,0 +1,16 @@
+.intro { height: 1rem; padding: 1rem;} 
+.parallax-window { height: 50vh;}
+/* TODO: 태블릿 */
+@media screen and (min-width: 768px){
+.intro {padding: 1rem 0 1rem 15rem;} 
+.parallax-window { height: 70vh; }
+}
+/* TODO: pc */
+@media screen and (min-width: 1280px) {
+.intro {padding: 1rem 0 1rem 32rem;} 
+}
+
+
+
+
+
